@@ -2,8 +2,8 @@ package revisionjava;
 
 public class AddNumber {
 
-	public static void main(String[] args) {
-      System.out.println(" I Lubg u Pooja");
+      public static void main(String[] args) {
+      System.out.println("Lubg u Pooja...........!");
 		
 		
 		int x =10;
